@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691514546926",
+    "project_id": "lucknow-home-services",
+    "storage_bucket": "lucknow-home-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691514546926:android:cd0c8710703c3dec2af1ff",
+        "android_client_info": {
+          "package_name": "com.example.lucknow_home_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691514546926-h7618j14jinfe0beamprse2965d77gus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucknow_home_services",
+            "certificate_hash": "0b81a9788c64bd5dbdc3811bdaec72e3762a93ac"
+          }
+        },
+        {
+          "client_id": "691514546926-0h151kecj5msuj7ltuh44dl40skstrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6nCb53buAywzysqG-aLqfeCcYLXRHfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691514546926-0h151kecj5msuj7ltuh44dl40skstrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
